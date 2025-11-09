@@ -86,8 +86,7 @@ du -sh *           # Resumen de cada elemento del directorio actual
 
 ```
 
-### Captura con formato optimizado
-![Comando du -sh](imagenes/du_sh.png)
+
 
 **Casos de uso:**
 - Identificar qué directorios ocupan más espacio
