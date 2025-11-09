@@ -74,12 +74,6 @@ sudo tcpdump
 
 
 
-**Componentes:**
-- **Timestamp:** Hora de captura
-- **Protocolo:** IP, ARP, IPv6, etc.
-- **Origen → Destino:** IPs y puertos
-- **Flags:** Estado TCP [S]=SYN, [.]=ACK, [F]=FIN, [P]=PUSH
-- **Datos adicionales:** Secuencia, ventana, longitud
 
 ### Opciones fundamentales
 
