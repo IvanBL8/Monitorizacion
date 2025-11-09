@@ -64,7 +64,7 @@ ps -eo user,pid,%cpu,%mem,cmd
 
 ---
 
-## 4. `ps -u` - Procesos de un usuario
+## 4. `ps -u` 
 
 ```bash
 ps -u usuario
