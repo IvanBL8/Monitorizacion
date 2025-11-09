@@ -12,7 +12,7 @@ arp -a
 **Descripción:** Muestra la tabla ARP que mapea direcciones IP a direcciones MAC en la red local.
 
 ### Captura de ejemplo
-![Comando arp -a](img/arp_a.png)
+![Comando arp -a](img/arp-a.png)
 
 **Información mostrada:**
 - **Dirección IP:** IP del host en la red local
