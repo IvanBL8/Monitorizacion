@@ -75,7 +75,7 @@ nmap [opciones] <objetivo>
 ### Captura de ejemplo
 ![Comando nmap top-ports](img/nmap--top.png)
 
-**Variaciones:**
+
 
 
 ---
@@ -87,7 +87,7 @@ nmap [opciones] <objetivo>
 **Descripción:** Muestra todos los sockets TCP y UDP que están escuchando conexiones (puertos abiertos localmente).
 
 ### Captura de ejemplo
-![Comando ss -plunt](img/ss-plunt.png)
+![Comando ss -plunt](img/ss-punt.png)
 
 **Opciones del comando:**
 - `-p` - Mostrar proceso asociado
